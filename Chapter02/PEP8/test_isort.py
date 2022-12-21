@@ -5,12 +5,12 @@ import sys
 
 import numpy as np
 import pandas as pd
-import pylint
 
+import pylint
 from .my_lib import Object
 from .my_lib import Object2
 from .my_lib import Object4
 
 
-print('Hey')
-print('yo')
+print("Hey")
+print("yo")
